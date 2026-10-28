@@ -1,4 +1,4 @@
-# A little landing-page experiment
+# A landing-page experiment
 
 What would make a busy person stop scrolling and consider a fitness-coaching program?
 
